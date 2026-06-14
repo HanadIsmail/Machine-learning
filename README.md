@@ -1,21 +1,48 @@
-# CodeBasics ML Practice Repository
+# 📊 Machine Learning for Data Science — Beginner to Advanced
 
-Welcome to my Machine Learning study collection. This repository is organized as a learning path with separate course topics and practice materials.
+This repository contains my daily practice work, notes, and exercises as I progress through the **[Machine Learning for Data Science: Beginner to Advanced](https://codebasics.io/courses/machine-learning-for-data-science-beginners-to-advanced)** course by **[Codebasics](https://codebasics.io/)**.
 
-## Start here
+The goal of this repo is to track my learning journey, document concepts as I understand them, and build a portfolio of hands-on ML projects.
 
-Open `CodeBasics ML/README.md` for a friendly student guide to every course folder.
+---
 
-## Main topics
+## 🗂️ Repository Structure
 
-- `CodeBasics ML/1 python/` - Python fundamentals and programming practice.
-- `CodeBasics ML/2 numpy/` - NumPy array and matrix operations.
-- `CodeBasics ML/3 pandas/` - Data analysis with pandas, merging, grouping, and missing data.
-- `CodeBasics ML/4 Data Vizualization (matplotlib and seaborn)/` - Creating charts and visualizations.
-- `CodeBasics ML/5 Math and statistics/` - Core statistics used in ML, including distributions and outliers.
-- `CodeBasics ML/6 Regression/` - Regression methods, evaluation, and exercises.
-- `CodeBasics ML/7 Supervised ML (Classification)/` - Classification algorithms and model assessment.
+| Folder | Topic | Status |
+|---|---|---|
+| [`1 python`](./1%20python) | Python fundamentals | ✅ Completed |
+| [`2 numpy`](./2%20numpy) | NumPy for numerical computing | ✅ Completed |
+| [`3 pandas`](./3%20pandas) | Pandas for data manipulation | ✅ Completed |
+| [`4 Data Visualization (matplotlib and seaborn)`](./4%20Data%20Vizualization%20(matplotlib%20and%20seaborn)) | Data visualization with Matplotlib & Seaborn | ✅ Completed |
+| [`5 Math and statistics`](./5%20Math%20and%20statistics) | Math & statistics for ML | ✅ Completed |
+| [`6 Regression`](./6%20Regression) | Regression algorithms | ✅ Completed |
+| [`7 Supervised ML (Classification)`](./7%20Supervised%20ML%20(Classification)) | Classification algorithms | 🔄 In Progress |
 
-## Purpose
+---
 
-This repository is a place to practice concepts, run examples, and track learning progress from basic Python through applied machine learning topics.
+## 🛠️ Tech Stack
+
+- **Language:** Python
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Jupyter Notebook / VS Code
+
+---
+
+## 📌 About This Repo
+
+- Each folder corresponds to a module/topic from the course.
+- Inside each folder, you'll find notebooks and scripts with my hands-on practice, exercises, and small projects.
+- This is a living repository — it will be updated regularly as I progress through the course.
+
+---
+
+## 🎓 Course Reference
+
+📚 **Course:** [Machine Learning for Data Science: Beginner to Advanced](https://codebasics.io/courses/machine-learning-for-data-science-beginners-to-advanced)
+👨‍🏫 **Instructor:** Codebasics (Dhaval Patel)
+
+---
+
+## 📬 Connect with Me
+
+Feel free to explore the repo, and connect with me if you'd like to discuss anything related to data science or machine learning!
