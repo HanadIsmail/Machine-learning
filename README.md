@@ -17,7 +17,7 @@ The goal of this repo is to track my learning journey, document concepts as I un
 | [`4 Data Visualization (matplotlib and seaborn)`](./4%20Data%20Vizualization%20(matplotlib%20and%20seaborn)) | Data visualization with Matplotlib & Seaborn | ✅ Completed |
 | [`5 Math and statistics`](./5%20Math%20and%20statistics) | Math & statistics for ML | ✅ Completed |
 | [`6 Regression`](./6%20Regression) | Regression algorithms | ✅ Completed |
-| [`7 Supervised ML (Classification)`](./7%20Supervised%20ML%20(Classification)) | Classification algorithms | 🔄 In Progress |
+| [`7 Supervised ML (Classification)`](./7%20Supervised%20ML%20(Classification)) | Classification algorithms | ✅ Completed |
 
 ---
 
