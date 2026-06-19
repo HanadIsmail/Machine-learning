@@ -18,6 +18,7 @@ The goal of this repo is to track my learning journey, document concepts as I un
 | [`5 Math and statistics`](./5%20Math%20and%20statistics) | Math & statistics for ML | ✅ Completed |
 | [`6 Regression`](./6%20Regression) | Regression algorithms | ✅ Completed |
 | [`7 Supervised ML (Classification)`](./7%20Supervised%20ML%20(Classification)) | Classification algorithms | ✅ Completed |
+| [`8 Ensemble Learning`](./8%20Ensemble%20Learning) | Ensemble methods (voting, bagging, random forest) | 🔄 In Progress |
 
 ---
 
