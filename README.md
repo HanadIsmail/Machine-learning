@@ -20,10 +20,8 @@ The goal of this repo is to track my learning journey, document concepts as I un
 | [`7 Supervised ML (Classification)`](./7%20Supervised%20ML%20(Classification)) | Classification algorithms | ✅ Completed |
 <<<<<<< HEAD
 | [`8 Ensemble Learning`](./8%20Ensemble%20Learning) | Ensemble methods (voting, bagging, random forest, gradient boosting, XGBoost) | ✅ Completed |
-
-=======
-| [`8 Ensemble Learning`](./8%20Ensemble%20Learning) | Ensemble methods (voting, bagging, random forest) | 🔄 In Progress |
 | [`9 Model Evaluation and Fine Tuning`](./9%20Model%20Evaluation%20and%20Fine%20Tuning) | Model evaluation (ROC/AUC, cost-benefit analysis, K-Fold, hyperparameter tuning) | 🔄 In Progress |
+=======
 >>>>>>> 5781c30 (todays work)
 ---
 
