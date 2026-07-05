@@ -18,6 +18,7 @@ This repository contains my daily practice work, notes, and exercises as I progr
 | [`8 Ensemble Learning`](./8%20Ensemble%20Learning) | Ensemble methods (voting, bagging, random forest, gradient boosting, XGBoost) | ✅ Completed |
 | [`9 Model Evaluation and Fine Tuning`](./9%20Model%20Evaluation%20and%20Fine%20Tuning) | Model evaluation (ROC/AUC, cost-benefit analysis, K-Fold, hyperparameter tuning) | ✅ Completed |
 | [`9.1 ML Project Life Cycle`](./12%20ML_project_lifecycle) | 10 stages of AI project lifecycle, SOW, data collection, cleaning, EDA, feature engineering, model selection, fine tuning, deployment, MLOps monitoring | ✅ Completed |
+| [`9.2 Feature Engineering`](./9.2%20feature%20Engineering) | 3 ways of feature engineering, feature selection using correlation, VIF, salary prediction practical, exercise | ✅ Completed |
 
 ---
 
